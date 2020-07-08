@@ -1,0 +1,29 @@
+.topheader {
+    height: 20vh;
+    font-size: 5vh;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 7vh;
+}
+
+.emlist {
+    position: relative;
+    left: 12vw;
+    width: 75vw;
+
+}
+
+.image {
+    
+}
+
+.titleButtons {
+    transform: translateX(48px);
+}
+
+.column {
+    font-size: 3vh;
+    transform: translateY(-40%);
+    display: inline-block;
+    width: 30%;
+}
